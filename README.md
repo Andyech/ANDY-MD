@@ -1,4 +1,4 @@
- **🧚‍♀️ 𝐐𝐔𝐄𝐄𝐍 𝐌𝐈𝐊𝐔 𝐌𝐃**
+ **🧚‍♀️ ANDY-MD**
 
 
 </p> <p align="center">
@@ -6,11 +6,11 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/kingmalvn/QUEEN/fork"><img title="ANDY-MD" src="https://img.shields.io/badge/FORK QUEEN-5MIKU-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Andyech/ANDY-MD/fork"><img title="ANDY-MD" src="https://img.shields.io/badge/FORK ANDY-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/kingmalvn/ANDY-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Andyech/ANDY-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/kingmalvn/MIKU-MD?style=social)
+![stars](https://img.shields.io/github/stars/Andyech/ANDY-MD?style=social)
 
 
 
@@ -20,8 +20,8 @@
 <br>
 
   <p align="center">  
-  <a href="https://files.catbox.moe/n5vvij.jpg">
-    <img alt="queen-miku" height="200" src="https://files.catbox.moe/n5vvij.jpg">
+  <a href="ANDY-MD">
+    <img alt="ANDY-MD" height="200" src=">
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -40,11 +40,11 @@
 ---
  **2.  Deploy To Replit**
 
-<a href="https://replit.com"><img title="QUEEN-MIKU Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com"><img title="ANDY-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
 **3. Deploy to HEROKU ↓**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MIKU-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andyech/ANDY-MD)
 
  **4.  Deploy to RENDER ↓**
 
@@ -100,18 +100,14 @@ jobs:
 ## CREDITS 
 # `Owner`
 
- <a href="https://github.com/kingmalvn"><img src="https://github.com/kingmalvn.png" width="250" height="250" alt=" Malvin King"/></a>
+ <a href="https://github.com/andyech"><img src="https://github.com/andyech.png" width="250" height="250" alt=" Andy-Tech"/></a>
 
 ---
 ### CREATED BY:
-1. ### Malvin King 
+1. ### ANDY-TECH 
 
 ## MY YT CHANNEL
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
  
- ### WHATSAPP CHANNLE 👇
- <p align="left">
-<a href='https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
-
 
